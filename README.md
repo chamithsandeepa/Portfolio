@@ -5,7 +5,7 @@ Home Page
 ![127 0 0 1_5500_EC-2020-011_Assignment03_index html (1)](https://github.com/user-attachments/assets/f2271b03-ccdb-45f5-aa48-3968320c3e51)
 
 About Me Page
-![127 0 0 1_5500_EC-2020-011_Assignment03_index html (1)](https://github.com/user-attachments/assets/3bab1466-31e1-44b0-b495-9cf20ad2fe29)
+![127 0 0 1_5500_EC-2020-011_Assignment03_about html](https://github.com/user-attachments/assets/f5972aa8-abc0-4655-867f-ff253d945685)
 
 Achievments Page
 ![127 0 0 1_5500_EC-2020-011_Assignment03_achievement html](https://github.com/user-attachments/assets/9e4da38c-42eb-44b2-af2e-eebc44071f6b)
